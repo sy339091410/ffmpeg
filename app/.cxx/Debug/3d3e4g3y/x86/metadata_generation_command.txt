@@ -1,0 +1,19 @@
+                    -H/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=28
+-DANDROID_PLATFORM=android-28
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/yisun/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/yisun/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/yisun/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/yisun/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/build/intermediates/cxx/Debug/3d3e4g3y/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/build/intermediates/cxx/Debug/3d3e4g3y/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/.cxx/Debug/3d3e4g3y/x86
+-GNinja
+                    Build command args: []
+                    Version: 2

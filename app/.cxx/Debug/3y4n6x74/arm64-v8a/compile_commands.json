@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/.cxx/Debug/3y4n6x74/arm64-v8a",
+  "command": "/Users/yisun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/yisun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dffmpegtest_EXPORTS -I/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/../ffmpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=gnu++11 -fno-limit-debug-info  -fPIC -o CMakeFiles/ffmpegtest.dir/native-lib.cpp.o -c /Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/.cxx/Debug/3y4n6x74/arm64-v8a",
+  "command": "/Users/yisun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/yisun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dffmpegtest_EXPORTS -I/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/../ffmpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=gnu++11 -fno-limit-debug-info  -fPIC -o CMakeFiles/ffmpegtest.dir/AVPacketQueue.cpp.o -c /Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/AVPacketQueue.cpp",
+  "file": "/Users/yisun/AndroidStudioProjects/example/ffmpegTest/app/src/main/cpp/AVPacketQueue.cpp"
+}
+]
